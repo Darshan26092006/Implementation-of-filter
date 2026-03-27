@@ -153,7 +153,8 @@ plt.show()
 i) Using Averaging Filter
 </br>
 </br>
-<img width="717" height="517" alt="download" src="https://github.com/user-attachments/assets/d755dc49-8b7e-423f-9e3e-2ace612e2034" />
+<img width="717" height="517" alt="download" src="https://github.com/user-attachments/assets/bdfc863a-3086-45e9-a563-2cebcb0bfd6e" />
+
 
 </br>
 </br>
@@ -161,7 +162,8 @@ i) Using Averaging Filter
 ii)Using Weighted Averaging Filter
 </br>
 </br>
-<img width="531" height="380" alt="download" src="https://github.com/user-attachments/assets/328621d0-c75b-455b-8cee-dc6a25d78e41" />
+<img width="531" height="380" alt="download" src="https://github.com/user-attachments/assets/68cffe06-57a9-4308-abfa-a0df8f544cbd" />
+
 
 
 </br>
@@ -170,7 +172,8 @@ ii)Using Weighted Averaging Filter
 iii)Using Gaussian Filter
 </br>
 </br>
-<img width="515" height="380" alt="download" src="https://github.com/user-attachments/assets/705c647d-d9d6-41f9-935a-7226faf50e24" />
+<img width="515" height="380" alt="download" src="https://github.com/user-attachments/assets/6193b05c-1a06-43cd-83e6-8fdc63f27f38" />
+
 
 
 </br>
@@ -179,7 +182,7 @@ iii)Using Gaussian Filter
 iv) Using Median Filter
 </br>
 </br>
-<img width="717" height="517" alt="download" src="https://github.com/user-attachments/assets/cc2a46bf-ef9c-47bb-b56c-69f684c6cc1e" />
+<img width="717" height="517" alt="download" src="https://github.com/user-attachments/assets/d8d1c9dd-ba64-4833-8ea5-187bb07b66ec" />
 
 </br>
 </br>
@@ -190,7 +193,8 @@ iv) Using Median Filter
 i) Using Laplacian Kernal
 </br>
 </br>
-<img width="515" height="380" alt="download" src="https://github.com/user-attachments/assets/6841e878-e852-44b7-a2d5-140f4e56575d" />
+<img width="515" height="380" alt="download" src="https://github.com/user-attachments/assets/60dcbbfb-ac42-4a79-8f2a-413e7862986c" />
+
 
 
 </br>
@@ -199,7 +203,8 @@ i) Using Laplacian Kernal
 ii) Using Laplacian Operator
 </br>
 </br>
-<img width="515" height="380" alt="download" src="https://github.com/user-attachments/assets/758a682f-76a8-49ae-ac39-f54b3e7580cc" />
+
+<img width="515" height="380" alt="download" src="https://github.com/user-attachments/assets/d33cac1b-412d-4854-a4f7-b6b26b2c5ea2" />
 
 </br>
 </br>
